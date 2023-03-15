@@ -13,7 +13,7 @@
 
 ### :woman_technologist: About Me
 I am a Data Scientist | DevOps Engineer | Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I bring in my Geomatics background into Data Science and I’m working as a DevOps Engineer. 
+- :telescope: I bring in my Geomatics background into Data Science and intending to work as a DevOps Engineer. 
 
 - :seedling: Available to be involved in Technical Content Writing.
 
@@ -30,7 +30,7 @@ I am a Data Scientist | DevOps Engineer | Full Stack Developer <img src="https:/
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yml/yml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg](http://clipartist.info//openclipart.org/2011/Sept/September/06-Tuesday/JSON_Logo.svg)" title="JSON"  alt="JSON" width="40" height="40"/>&nbsp;
+  <img src="[[https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg](http://clipartist.info//openclipart.org/2011/Sept/September/06-Tuesday/JSON_Logo.svg)](https://commons.wikimedia.org/wiki/File:JSON_vector_logo.svg#/media/File:JSON_vector_logo.svg)" title="JSON"  alt="JSON" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
